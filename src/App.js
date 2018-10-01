@@ -76,8 +76,13 @@ class App extends React.Component {
             <button type="button" onClick={this.handleRemoveShareholder(idx)} className="small">-</button>
           </div>
         ))}
+<<<<<<< HEAD
         <button>Inks </button>
         <button type="button" onClick={this.handleAddShareholder} className="small">Agregar au un Platilloz</button>
+=======
+        <button type="button" onClick={this.handleAddShareholder} className="small">Agregar au the Platilloz</button>
+        <button>Inc</button>
+>>>>>>> eb90cadafb401552d502bbff0eb5eefe7c1ad23a
         <button>Incorporate</button>
 
         <button type="button" onClick={this.showContents.bind(this)}>Show Content</button>
