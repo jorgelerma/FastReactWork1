@@ -78,7 +78,7 @@ class App extends React.Component {
         ))}
 <<<<<<< HEAD
         <button>Inks </button>
-        <button type="button" onClick={this.handleAddShareholder} className="small">Agregar au un Platilloz</button>
+    
 =======
         <button type="button" onClick={this.handleAddShareholder} className="small">Agregar au the Platilloz</button>
         <button>Inc</button>
